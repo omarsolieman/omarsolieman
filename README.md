@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I love painting and photography 
 
 ## Connect with me:
-[<img align="left" width="22px" src="src/twitter-line.svg"][twitter]
+[<img align="left" width="22px" src="src/twitter-line.svg">][twitter]
  
  
 <br />

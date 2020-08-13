@@ -20,6 +20,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Designing Some random stuff](https://www.youtube.com/watch?v=XsBvNHuhAms)
+- [Designing random stuff and occasional gaming](https://www.youtube.com/watch?v=x98Ddx7HaYQ)
+- [Designing Some Stuff](https://www.youtube.com/watch?v=pV5Gg9OcpdM)
+- [Fake Subscribers & Views NO.](https://www.youtube.com/watch?v=Kg89CmSY1xU)
+- [how to make a simple house in google sketchup part 2](https://www.youtube.com/watch?v=elrsQAXxkGU)
 <!-- YOUTUBE:END -->
 
 ---

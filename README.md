@@ -16,6 +16,14 @@
 <br />
 <br />
 
+---
+
+### 📺 Latest YouTube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+---
+
 [![N4VYB1U3's github stats](https://github-readme-stats.vercel.app/api?username=N4VYB1U3)](https://github.com/N4VYB1U3/github-readme-stats)
 
  

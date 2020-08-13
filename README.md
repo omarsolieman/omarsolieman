@@ -13,6 +13,9 @@
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
  
+---
+[![N4VYB1U3's github stats](https://github-readme-stats.vercel.app/api?username=N4VYB1U3)](https://github.com/N4VYB1U3/github-readme-stats)
+
  
 <br />
 <br />

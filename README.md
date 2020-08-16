@@ -20,11 +20,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Designing Some random stuff](https://www.youtube.com/watch?v=XsBvNHuhAms)
-- [Designing random stuff and occasional gaming](https://www.youtube.com/watch?v=x98Ddx7HaYQ)
-- [Designing Some Stuff](https://www.youtube.com/watch?v=pV5Gg9OcpdM)
-- [Fake Subscribers & Views NO.](https://www.youtube.com/watch?v=Kg89CmSY1xU)
 - [how to make a simple house in google sketchup part 2](https://www.youtube.com/watch?v=elrsQAXxkGU)
+- [How to create simple house in google sketchup part 1](https://www.youtube.com/watch?v=tKeypP5I4OU)
+- [how to make a simple but yet cool tower in GOOGLE sketchup will also show how to use camera](https://www.youtube.com/watch?v=76WkGZ65qiY)
+- [How to create an air cushion effect in Google Sketchup](https://www.youtube.com/watch?v=LjL08IeuS_Q)
+- [arduino tutorial no.4   : how to control a servo with joystick](https://www.youtube.com/watch?v=VaGarxDBops)
 <!-- YOUTUBE:END -->
 
 ---

@@ -2,9 +2,9 @@
 
 ## I'm a Student, Developer and Gamer!
 - 🔭 I'm currently working on a [File Upload SaaS]!
-- 🌱 I'm currently learning everything 🤣
+- 🌱 I'm currently learning Laravel & Vue.js
 - 🤝 I'm looking to collaborate with other developers / content creators
-- 🥅 2020 Goals: Contribute more to the Open Source Community
+- 🥅 2021 Goals: Finish a SaaS
 - ⚡ Fun fact: I love painting and photography 
 
 ## Connect with me:

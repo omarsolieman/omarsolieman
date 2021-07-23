@@ -1,8 +1,8 @@
 ### Hi there, I'm Omar - aka [N4VYB1U3] 👋
 
 ## I'm a Student, Developer and Gamer!
-- 🔭 I'm currently working on a [File Upload SaaS]!
-- 🌱 I'm currently learning Laravel & Vue.js
+- 🔭 I'm currently working on a [Personal Portfolio]!
+- 🌱 I'm currently learning Node.js & React.js
 - 🤝 I'm looking to collaborate with other developers / content creators
 - 🥅 2021 Goals: Finish a SaaS
 - ⚡ Fun fact: I love painting and photography 
@@ -35,8 +35,8 @@
 <br />
 <br />
 
-[website]: http://omarmedhat.ml/
+[website]: http://omardev.tk/
 [twitter]: https://twitter.com/5cw_a
-[instagram]: https://www.instagram.com/rt_247/
+[instagram]: https://www.instagram.com/omarsolieman/
 [linkedin]:https://www.linkedin.com/in/n4vyb1u3/
 [twitch]: https://www.twitch.tv/rt_247

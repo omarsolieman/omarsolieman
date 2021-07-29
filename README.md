@@ -1,4 +1,4 @@
-### Hi there, I'm Omar - aka [N4VYB1U3] 👋
+### Hi there, I'm Omar - aka [omarsolieman] 👋
 
 ## I'm a Student, Developer and Gamer!
 - 🔭 I'm currently working on a [Personal Portfolio]!

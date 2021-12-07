@@ -4,7 +4,7 @@
 - 🔭 I'm currently working on a [Personal Portfolio]!
 - 🌱 I'm currently learning Node.js & React.js
 - 🤝 I'm looking to collaborate with other developers / content creators
-- 🥅 2021 Goals: Finish a SaaS
+- 🥅 2021 Goals: Start a Business
 - ⚡ Fun fact: I love painting and photography 
 
 ## Connect with me:
@@ -29,7 +29,7 @@
 
 ---
 
-[![N4VYB1U3's github stats](https://github-readme-stats.vercel.app/api?username=N4VYB1U3)](https://github.com/N4VYB1U3/github-readme-stats)
+[![omarsolieman's github stats](https://github-readme-stats.vercel.app/api?username=omarsolieman)](https://github.com/omarsolieman/github-readme-stats)
 
  
 <br />

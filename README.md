@@ -1,10 +1,10 @@
 ### Hi there, I'm Omar - aka [omarsolieman] 👋
 
 ## I'm a Student, Developer and Gamer!
-- 🔭 I'm currently working on a [Personal Portfolio]!
+- 🔭 I'm currently working on a [ODesigns]!
 - 🌱 I'm currently learning Node.js & React.js
 - 🤝 I'm looking to collaborate with other developers / content creators
-- 🥅 2021 Goals: Start a Business
+- 🥅 2022 Goals: Start a Business
 - ⚡ Fun fact: I love painting and photography 
 
 ## Connect with me:
@@ -36,7 +36,7 @@
 <br />
 
 [website]: http://omardev.tk/
-[twitter]: https://twitter.com/5cw_a
+[twitter]: https://twitter.com/omarsolieman_
 [instagram]: https://www.instagram.com/omarsolieman/
-[linkedin]:https://www.linkedin.com/in/n4vyb1u3/
+[linkedin]:https://www.linkedin.com/in/omarsolieman/
 [twitch]: https://www.twitch.tv/rt_247

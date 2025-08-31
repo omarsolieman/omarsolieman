@@ -1,6 +1,6 @@
 ### Hi there, I'm Omar - aka [omarsolieman] 👋
 
-## I'm a Student, Developer and Gamer!
+## I'm a Comp Sci Student, Developer and Maker!
 - 🔭 I'm currently working on a Smart Home System & Smart IoT Hydroponics Tower!
 - 🌱 I'm currently learning AI/ML 
 - 🤝 I'm looking to collaborate with other developers / content creators

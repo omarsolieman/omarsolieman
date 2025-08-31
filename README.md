@@ -1,17 +1,15 @@
 ### Hi there, I'm Omar - aka [omarsolieman] 👋
 
 ## I'm a Student, Developer and Gamer!
-- 🔭 I'm currently working on a [ODesigns]!
-- 🌱 I'm currently learning Node.js & React.js
+- 🔭 I'm currently working on a Smart Home System & Smart IoT Hydroponics Tower!
+- 🌱 I'm currently learning AI/ML 
 - 🤝 I'm looking to collaborate with other developers / content creators
-- 🥅 2022 Goals: Start a Business
-- ⚡ Fun fact: I love painting and photography 
+- 🥅 2026 Goals: Finish My degree
+- ⚡ Fun fact: I love 3D Printing
 
 ## Connect with me:
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
  
 <br />
 <br />
@@ -35,8 +33,6 @@
 <br />
 <br />
 
-[website]: http://omardev.tk/
-[twitter]: https://twitter.com/omarsolieman_
+[website]: http://omarsolieman.vercel.app/
 [instagram]: https://www.instagram.com/omarsolieman/
 [linkedin]:https://www.linkedin.com/in/omarsolieman/
-[twitch]: https://www.twitch.tv/rt_247
